@@ -10,3 +10,4 @@ pera
 chuchu
 abacaxi
 abacate
+acai
